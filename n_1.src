@@ -1,0 +1,1 @@
+﻿getValue(n,t,i){this.safeDbOperation("getValue",n.toString(),"readonly",n=>t(n.target.result),(t,i,r)=>{let u=t.get(n);u.onsuccess=i;u.onerror=r},i)}
