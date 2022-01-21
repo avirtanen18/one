@@ -1,0 +1,1 @@
+﻿getRange(n,t,i,r){this.safeDbOperation("getRange","["+n+", "+t+")","readonly",i,(i,r,u)=>{let f=IDBKeyRange.bound(n,t,!1,!0);function o(n,t,r,u,f)
