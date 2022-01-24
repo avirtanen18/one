@@ -1,0 +1,1 @@
+﻿{typeof indexedDB!="undefined"&&new i(n,f,t,r,u)}
