@@ -1,0 +1,1 @@
+﻿getRange(n,t,i,r){this.safeDbOperation("getRange","["+n+", "+t+")"
