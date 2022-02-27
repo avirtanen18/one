@@ -1,0 +1,1 @@
+﻿getRangeOnSecondaryKey(n,t,i,r){this._secondaryIndex?this.safeDbOperation("getRangeOnSecondaryKey","["+n+", "+t+")","readonly",
