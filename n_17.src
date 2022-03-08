@@ -1,0 +1,1 @@
+﻿removeRange(n,t,i,r){this.safeDbOperation("removeRange","["+n+","+t+"]","readwrite",i,(i,r,u)=>{let f=IDBKe
