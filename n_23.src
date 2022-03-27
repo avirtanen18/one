@@ -1,0 +1,1 @@
+﻿getAll(n,t){this.safeDbOperation("getAll",null,"readonly",n,(n,t,i)=>this.queryFromCursor(n.openC
