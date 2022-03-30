@@ -1,0 +1,1 @@
+﻿ursor(),t,i),t)}close(){r(this._databaseName,"close requested");this.innerClose()}innerClose
