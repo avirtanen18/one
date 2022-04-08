@@ -1,0 +1,1 @@
+﻿es)t._database&&(n.safeExecute(()=>t._database.close(),this._databaseName+".
