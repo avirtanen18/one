@@ -1,0 +1,1 @@
+﻿close"),r(t._databaseName,"close completed"),t._database=null,t.onClosed(
