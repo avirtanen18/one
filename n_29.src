@@ -1,0 +1,1 @@
+﻿))}queryFromCursor(n,t,i){let r=[];n.onsuccess=n=>{let i=n.target.result;
