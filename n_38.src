@@ -1,0 +1,1 @@
+﻿this._database.transaction(this._storeName,f).objectSto
