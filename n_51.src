@@ -1,0 +1,1 @@
+﻿try{let f=indexedDB.deleteDatabase(n)
