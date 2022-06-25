@@ -1,0 +1,1 @@
+﻿f.onsuccess=()=>{r(n,"deleteDatabase completed"),t&&t()};
