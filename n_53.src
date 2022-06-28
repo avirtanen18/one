@@ -1,0 +1,1 @@
+﻿f.onerror=u("deleteDatabase.onError",t=>{SharedLogHelper.LogError("deleteDB",n,t)
