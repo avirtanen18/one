@@ -1,0 +1,1 @@
+﻿function u(n,t){return i=>{let r=n;try{r+=" "+i.target.error.name}catch(u){}t(new Error(r))}}
