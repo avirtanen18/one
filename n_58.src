@@ -1,0 +1,1 @@
+﻿let r=(n.TestHookUrlParameters===null||n.TestHookUrlParameters===void 0?void 0:n.TestHookUrlParameters.dbTrace)?(t,i)=>n.log("["+t+"] "+i):()=>{};
