@@ -1,0 +1,1 @@
+﻿t.deleteDatabase=c;t.handleErrorEvent=u;class i{constructor(n,t,f,e,o,s){this._databaseName=n;
