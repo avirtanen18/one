@@ -1,0 +1,1 @@
+﻿this.onClosed=o;this._secondaryIndex=s;this._closePending=!1;this._storeName=n+"Store";r(this._databaseName,"open requested");
