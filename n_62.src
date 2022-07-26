@@ -1,0 +1,1 @@
+﻿{e(new Error("IndexedDbClientSideStorage.const: Could not open database"));return}
