@@ -1,0 +1,1 @@
+﻿h.onsuccess=n=>{this._database=n.target.result,i._allInstances.push(this),r(this._databaseName,"open completed"),f(this)};
