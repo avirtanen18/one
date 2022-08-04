@@ -1,0 +1,1 @@
+﻿let t=n.target.result;t.objectStoreNames.contains(this._storeName)&&t.deleteObjectStore(this._storeName);
