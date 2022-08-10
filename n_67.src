@@ -1,0 +1,1 @@
+﻿this._secondaryIndex&&i.createIndex(this._secondaryIndex,this._secondaryIndex,{unique:!1})};
