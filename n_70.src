@@ -1,0 +1,1 @@
+﻿"readwrite",i,(i,r,u)=>{let f=i.put(t,n);f.onsuccess=r;f.onerror=u},r)}
