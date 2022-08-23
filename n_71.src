@@ -1,0 +1,1 @@
+﻿putMultiple(n,t,i){this.safeDbOperation("putMultiple",n.length.toString(),"readwrite",t
