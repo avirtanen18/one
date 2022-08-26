@@ -1,0 +1,1 @@
+﻿(t,i,r)=>{let u=0,f=()=>{if(u<n.length){let e=t.put(n[u].value,n[u].key);
