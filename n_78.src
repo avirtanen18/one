@@ -1,0 +1,1 @@
+﻿this.queryFromCursor(f.openCursor(e),r,u)},r):r(new Error("getRangeOnSecondaryKey: Index name is missing"))}
