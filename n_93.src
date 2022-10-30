@@ -1,0 +1,1 @@
+﻿=n=>{let i=n.target.result;i&&(i.delete(),r+=1);i&&r!=f?i.conti
