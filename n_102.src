@@ -1,0 +1,1 @@
+﻿{this._writing?this._tearDownPending=!0:(this._tearDownPending=!1,this._storage&&this._storage.close())}
