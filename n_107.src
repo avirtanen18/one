@@ -1,0 +1,1 @@
+﻿this._pendingQueries.forEach(n=>n()),this._pendingQueries=[]},
