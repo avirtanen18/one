@@ -1,0 +1,1 @@
+﻿static getUnixTime(t){return t||(t=n.getCurrentDate()),Math.round(t.getTime
