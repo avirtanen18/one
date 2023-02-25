@@ -1,0 +1,1 @@
+﻿withStorage(n){return this._storage?(n(this._storage),!0):!1}getMaxKey(n)
