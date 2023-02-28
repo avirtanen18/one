@@ -1,0 +1,1 @@
+﻿{return n.slice(0,n.length-1)+String.fromCharCode(n.charCodeAt(n.length-1)+1)}
