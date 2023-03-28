@@ -1,0 +1,1 @@
+﻿_storage.getValue(r,n=>{c&&sb_ct(c),l||(l=!0,f(n))},n):r?this._storage
